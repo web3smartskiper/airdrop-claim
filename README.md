@@ -1,2 +1,2 @@
 # airdrop-claim
-where you can claim your airdrop 
+A dapp to claim your skiper claim your airdrop 
