@@ -1,1 +1,95 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 10px;
+}
 
+body{
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(istockphoto-1442836782-612x612.jpg); 
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 200vh;
+}
+
+.icon{
+    color: rgb(19, 186, 236);
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 20px;
+    float:left; 
+    margin-top: 0px;
+    border-radius: 15px;
+}
+
+.wbtn{  background-color: rgba(110, 27, 243, 0.397);
+    border-radius: 15px; 
+    color: rgb(19, 186, 236);
+    font-weight: bolder;
+    border: solid;
+    border-color: rgb(19, 186, 236);
+    transition: 0.5s ease-in-out;
+    text-decoration: none;
+    margin-top: 30px;
+    padding: 10px;
+    margin-left: 1560px;
+}    
+
+
+a:hover{
+    color: rgb(233, 110, 147);
+}
+
+.content{
+    height: auto;
+    margin: auto;
+    color: rgb(130, 212, 236);
+    position: relative;
+    text-orientation: upright;
+    margin: 300px;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    font-size: 25px;
+    text-align: center;
+}
+
+#sch{color: rgb(241, 22, 88);
+
+}
+
+h1{
+    font-size: 50px;
+}
+    
+   .par{
+    text-align: center;
+   } 
+
+   .claim{
+    color: rgb(231, 34, 94);
+   }
+
+   .clbt{
+    background-color: rgba(110, 27, 243, 0.397);
+    border-radius: 15px; 
+    color: rgb(19, 186, 236);
+    font-weight: bolder;
+    border: solid;
+    border-color: rgb(19, 186, 236);
+    transition: 0.5s ease-in-out;background-color: rgba(110, 27, 243, 0.397);
+    border-radius: 15px; 
+    color: rgb(19, 186, 236);
+    font-weight: bolder;
+    border: solid;
+    border-color: rgb(19, 186, 236);
+    transition: 0.5s ease-in-out;
+    text-decoration: none;
+    text-decoration: none;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+
+   }
